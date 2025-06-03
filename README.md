@@ -1,4 +1,4 @@
-# fnp
+# fnp Sales Analysis
 
 This project focuses on the comprehensive analysis of sales performance data for FNP (Ferns N Petals) a retail company offering gifts, cakes, flowers, and accessories for various occasions. The analysis was conducted using Microsoft Excel, leveraging dashboards and data visualization techniques to uncover trends, customer behavior, and revenue opportunities across multiple dimensions.
 
